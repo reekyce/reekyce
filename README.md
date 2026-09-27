@@ -131,7 +131,7 @@ A web application for managing restaurant employees, orders, kitchen operations,
 
 ## 📫 Connect With Me
 
-💼 GitHub: [YOUR_USERNAME](https://github.com/reekyce)
+💼 GitHub: [reekyce](https://github.com/reekyce)
 
 📧 Email: Chhornsovandara.17@gmail.com
 
