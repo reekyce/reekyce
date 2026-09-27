@@ -113,9 +113,9 @@ A web application for managing restaurant employees, orders, kitchen operations,
 
 ## 📊 GitHub Stats
 
-![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=reekyce&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reekyce&layout=compact&theme=dark)
 
 ---
 
@@ -131,9 +131,9 @@ A web application for managing restaurant employees, orders, kitchen operations,
 
 ## 📫 Connect With Me
 
-💼 GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+💼 GitHub: [YOUR_USERNAME](https://github.com/reekyce)
 
-📧 Email: YOUR_EMAIL
+📧 Email: Chhornsovandara.17@gmail.com
 
 ---
 
